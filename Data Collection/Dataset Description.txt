@@ -1,0 +1,16 @@
+Context
+
+The purpose of this kernel is to predict the price of a house that a realtor can charge, or a customer can invest to buy a house by considering multiple input factors. 
+
+Also, to classify the houses into Good and Excellent category based on the input variables by using best machine learning classification and regression algorithms with more efficiency.
+
+Content
+
+This dataset contains house sale prices for King County, which includes Seattle. 
+
+It includes homes sold between May 2014 and May 2015. The dataset is pretty unbalanced with wide range of houses information that are built and renovated from the year 1990 to 2015. 
+
+The dataset has total 21 variables including price, condition, number of bedrooms, bathrooms and other features of house.
+
+
+Dataset Source : Kaggle.com
